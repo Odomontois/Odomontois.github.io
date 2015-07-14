@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Пьеса и Лицедеи
-tags: scala, akka, play, play-iteratee
+tags: 
+  - scala
+  - akka
+  - play
+  - play-iteratee
 ---
 
 В [Play](https://www.playframework.com), как известно, [всегда есть место для **Actor**а](https://www.playframework.com/documentation/2.4.x/ScalaAkka)
