@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Я
+title: Социоbljadство
 ---
 
   [![GitHub](/public/icons/github.png)](https://github.com/Odomontois)
